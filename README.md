@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá pessoal, sejam bem vindos ao meu GitHub 👋
+
+Meu nome é Wagner Sorio, por mais de dez anos trabalho desenvolvendo software nas plataformas: desktop, web e ERP.
+
+
+- 🔭 Atualmente trabalho na HPE Automotores Do Brasil como Desenvolvedor Senior.
+- 🌱 Atualmente estou me especializando em Python para trabalhar com dados.
+- 📫 Como me encontrar: Linkedin meu perfil é @wagnersorio.
 
 <!--
 **wagnersorio/wagnersorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
