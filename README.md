@@ -3,7 +3,6 @@
 Meu nome é Wagner Sorio, por mais de dez anos trabalho desenvolvendo software nas plataformas: desktop, web e ERP.
 
 
-- 🔭 Atualmente trabalho na HPE Automotores Do Brasil como Desenvolvedor.
 - 📫 Como me encontrar: Linkedin meu perfil é @wagnersorio.
 
 <!--
